@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled map</name>
+    <description/>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>District Hospital Chikkaballapur</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.725598,13.4353589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District Hospital Chikmagalur</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            75.7762583,13.3157612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District Hospital Blood Bank Chitradurga</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            76.4065,14.220818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chigateri General Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            75.9154756,14.4567729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karnataka Institute of Medical Sciences</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            75.1324366,15.3628762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wenlock District Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            74.843131,12.867383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GIMS, Gadag.</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            75.6022789,15.3777114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hassan Institute Of Medical Sciences</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            76.1026865,13.0048638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District Hospital, Haveri</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            75.4027662,14.7863025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ESIC Medical College & Hospital]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            76.8814929,17.311135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kodagu Institute of Medical Sciences</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            75.7403208,12.4416631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNR District Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            78.1343507,13.1292451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koppal Institute Of Medical Sciences</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            76.1845211,15.3520863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandya Institute of Medical Sciences</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            76.9009221,12.5273158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mysuru District Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            76.628029,12.3491728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raichur Surgical Superspeciality Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.3480211,16.2054853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kandhaya Bhavana, Ramanagara</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.2869204,12.729356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mc Gann Teaching District Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            75.5628577,13.9353085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District Hospital, Tumakuru</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.1000114,13.3399985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dr TMA Pai Hospital, Udupi</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            74.7470072,13.3323983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KIMS</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            74.1286943,14.8156086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Government Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            75.6915571,16.8282892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>District Hospital Yadgiri</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.1327594,16.7469536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>DISTRICT HEALTH OFFICE</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            75.6688848,16.1591354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rajalakshmi Multi Specialty Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.579531,12.9165377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOWRING AND LADY CURZON MEDICAL COLLEGE AND RESEARCH INSTITUTE</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.6042334,12.9831729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rajarajeshwari Medical College And Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.4619509,12.8954912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Victoria Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.5738074,12.9635669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Command Hospital, Air Force</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.6307879,12.9638727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hindustan Aeronautics Limited Hospital</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.6657136,12.9626918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIMS - Bangalore Institute of Management and Science</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.6493809,13.0585699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bidar Institute of Medical Sciences</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            77.5159653,17.9202672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chamarajanagar Institute of Medical Sciences</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            76.9029568,11.8955134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
